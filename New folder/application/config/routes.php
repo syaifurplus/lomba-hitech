@@ -49,7 +49,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
+<<<<<<< HEAD:New folder/application/config/routes.php
 $route['default_controller'] = 'products';
+=======
+$route['default_controller'] = 'Welcome';
+>>>>>>> ae388c4208ea7393ec14875173834c9ce187f67f:Web Service/application/config/routes.php
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
