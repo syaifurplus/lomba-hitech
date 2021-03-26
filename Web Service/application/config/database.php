@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'chatbot',
+	'hostname' => 'isnacollection.site',
+	'username' => 'u4466210_dit',
+	'password' => 'qazwsx22',
+	'database' => 'u4466210_cPPKM',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
