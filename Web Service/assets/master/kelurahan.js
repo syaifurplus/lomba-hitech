@@ -69,7 +69,7 @@
             // Iterate over the JSON object
             for (var i = 0, len = feat.data.length; i < len; i++) {
                 tableData.push({
-                    "id": feat.data[i].id,
+                    'id': feat.data[i].id,
                     'gid_3': feat.data[i].gid_3,
                     'name_3': feat.data[i].name_3,
                     'gid_4': feat.data[i].gid_4,
@@ -78,8 +78,8 @@
                     'orange': feat.data[i].orange,
                     'kuning': feat.data[i].kuning,
                     'hijau': feat.data[i].hijau,
-                    'tot_rw': feat.data[i].tot_rw,
-                    'tot_rt': feat.data[i].tot_rt,
+                    'rw': feat.data[i].tot_rw,
+                    'rt': feat.data[i].tot_rt,
                 });
             }
     

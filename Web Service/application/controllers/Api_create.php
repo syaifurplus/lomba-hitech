@@ -46,22 +46,24 @@ class Api_create extends CI_Controller {
             $orange = 1;
         }
 
+        // pencocokan gid kelurahan dan kecamatan dlu
 
         $data = array(
-            'hijau'     => $hijau,
-            'kuning'    => $kuning,
-            'orange'    => $orange,
-            'merah'     => $merah,
-            'rmh'       => $rmh,
-            'rt'        => $rt,
-            'rw'        => $rw,
-            'kelurahan' =>  $kelurahan,
-            'kecamatan' =>  $kecamatan,
-            'latitude'  =>  $lat,
-            'longitude' =>  $lng
+            'gid_4'         => $kelurahan,
+            'gid_3'         => $kecamatan,
+            'hijau'         => $hijau,
+            'kuning'        => $kuning,
+            'orange'        => $orange,
+            'merah'         => $merah,
+            'jumlah_rumah'  => $rmh,
+            'rw'            => $rt,
+            'rt'            => $rw,
+            'latitude'      => $lat,
+            'longitude'     => $lng
         );
 	
-		echo json_encode($data);
+		// echo json_encode($data);
+        //insert data dari $data ke pasien_kelurahan
 	}
 
     public function am_kec()
