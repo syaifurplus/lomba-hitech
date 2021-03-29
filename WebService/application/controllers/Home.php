@@ -11,8 +11,10 @@ class Home extends CI_Controller {
 	
 	public function index()
 	{
-        $data['rtrw'] = $this->Rtrw_model->tampilsemua();//menggunakan fungsi yang ada di model
-		$this->load->view('input',$data);//menampilkan tampilan yang ada di view
+        // $data['rtrw'] = $this->Rtrw_model->tampilsemua();//menggunakan fungsi yang ada di model
+		// $this->load->view('input',$data);//menampilkan tampilan yang ada di view
+        $this->load->view('home');
+
 	}
 
     public function tambah()
