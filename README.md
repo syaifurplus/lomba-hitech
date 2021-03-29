@@ -5,7 +5,7 @@
 # Chatbot
     1. [x] Menerima Data Kordinat dari shareloc user
     2. [x] Menerima Data RW RT di input dari pertanyaan Bot
-    3. [ ] Menerima Data Jumlah Rumah Terpapar dari pertanyaan Bot
+    3. [x] Menerima Data Jumlah Rumah Terpapar dari pertanyaan Bot
     4. [ ] Memberikan Data ke Web Service
         4.1 [ ] Data Kordinat
         4.2 [ ] Data RW RT
