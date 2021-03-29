@@ -5,7 +5,7 @@
 # Chatbot
     1. [x] Menerima Data Kordinat dari shareloc user
     2. [x] Menerima Data RW RT di input dari pertanyaan Bot
-    3. [ ] Menerima Data Jumlah Rumah Terpapar dari pertanyaan Bot
+    3. [x] Menerima Data Jumlah Rumah Terpapar dari pertanyaan Bot
     4. [ ] Memberikan Data ke Web Service
         4.1 [ ] Data Kordinat
         4.2 [ ] Data RW RT
@@ -45,10 +45,10 @@
             'longitude'     => $lng
             4.1 [ ] Return Feedback
             4.2 [ ] Update data dari 'pasien_kelurahan' ke 'pasien_kecamatan'
-    5. [ ] Server dan Database
-        5.1 [ ] Setup Server
-            5.1.1 [ ] File manager
-            5.1.2 [ ] Akun FTP
+    5. [x] Server dan Database
+        5.1 [x] Setup Server
+            5.1.1 [x] File manager
+            5.1.2 [x] Akun FTP
         5.2 [x] Setup Database
             5.2.1 [x] Buat Database 'u4466210_cPPKM'
             5.2.2 [x] Buat Tabel 'data_daerah' => gid map

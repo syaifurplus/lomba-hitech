@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'chatbot',
+	'hostname' => 'iot.dinus.ac.id',
+	'username' => 'iotdinus_chatbot1',
+	'password' => 'qazwsx2204',
+	'database' => 'iotdinus_cPPKM',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

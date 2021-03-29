@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'isnacollection.site',
-	'username' => 'u4466210_dit',
-	'password' => 'qazwsx22',
-	'database' => 'u4466210_cPPKM',
+	'hostname' => 'iot.dinus.ac.id',
+	'username' => 'iotdinus_chatbot1',
+	'password' => 'qazwsx2204',
+	'database' => 'iotdinus_cPPKM',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
