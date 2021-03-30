@@ -26,19 +26,29 @@ class Api extends CI_Controller {
         $hijau=0;
         $kuning=0;
         $orange=0;
-        $orange=0;
+        $merah=0;
+
+        echo "Kecamatan: ".$kecamatan; echo "<br>";
+        echo "Kelurahan: ".$kelurahan; echo "<br>";
+        echo "RW: ".$rw; echo "<br>";
+        echo "RT: ".$rt; echo "<br>";
+        echo "Terjangkit: ".$rmh." rumah"; echo "<br>";
 
         if($rmh==0){
             $hijau = 1;
+            echo "Zona: Hijau";
         }
         else if($rmh>= 1 && $rmh<=5){
             $kuning = 1;
+            echo "Zona: kuning";
         }
         else if($rmh>= 6 && $rmh<=10){
             $orange = 1;
+            echo "Zona: orange";
         }
         else if($rmh > 10){
-            $orange = 1;
+            $merah = 1;
+            echo "Zona: merah";
         }
 
         // pencocokan gid kelurahan dan kecamatan dlu
