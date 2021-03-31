@@ -28,7 +28,18 @@ class Api extends CI_Controller {
         $orange=0;
         $merah=0;
 
-        echo "Kecamatan: ".$kecamatan; echo "<br>";
+        echo "Kecamatan: "; 
+        $arrkecamatan = explode(" ",$kecamatan);
+        $deletearray = array_shift($arrkecamatan);
+        //print_r($arrkecamatan);
+        echo implode(" ",$arrkecamatan);
+
+      
+
+        echo "<br>";
+        //var_dump($arrkecamatan);
+
+        //echo "Kecamatan: ".$kecamatan; echo "<br>";
         echo "Kelurahan: ".$kelurahan; echo "<br>";
         echo "RW: ".$rw; echo "<br>";
         echo "RT: ".$rt; echo "<br>";

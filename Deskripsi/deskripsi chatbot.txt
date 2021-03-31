@@ -1,0 +1,10 @@
+Hai saya Lavida! Chatbot penerima laporan kasus COVID-19 Kota Semarang.
+Untuk mendukung program pemerintah PPKM Skala Mikro, silahkan terlebih dahulu membagikan lokasi di sekitar rumah warga terpapar COVID-19.
+
+Terima kasih sudah mengirim lokasi warga yang terpapar COVID-19, beritahukan kami dimana RW warga yang terpapar. Mohon masukkan dalam bentuk angka.
+
+Silahkan masukan dimana RT warga yang terpapar, mohon masukkan dalam bentuk angka.
+
+Berikan kami informasi berapa jumlah rumah warga yang terpapar. mohon masukkan dalam bentuk angka.
+
+Terima Kasih, status inputan anda : 
