@@ -9,7 +9,7 @@ JAWABAN PENGUNJUNG YANG BENAR :
 
 1. lavida_semarangbot
 2. Lapor Covid Ahay
-3. laman web iot.dinus.ac.id/lavida pada fitur Chat "Message Us"
+3. laman web iot.dinus.ac.id/lavida pada fitur icon Chat ponom kanan bawah "Tanyakan pada LaVidA!"
 
 yang menjawab tepat dan cepat dikasih 5 koin
 yang menjawab tepat dikasih 4 koin 
