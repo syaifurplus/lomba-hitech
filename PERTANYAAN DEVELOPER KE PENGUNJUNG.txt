@@ -1,0 +1,15 @@
+PERTANYAAN WAJIB DEVELOPER :
+
+1. Apa username bot pada platform telegram?
+2. Apa kepanjangan dari lavida?
+3. Terletak dimanakah user dapat mengetahui info detail data zonasi RT?
+
+
+JAWABAN PENGUNJUNG YANG BENAR :
+
+1. lavida_semarangbot
+2. Lapor Covid Ahay
+3. laman web iot.dinus.ac.id/lavida pada fitur Chat "Message Us"
+
+yang menjawab tepat dan cepat dikasih 5 koin
+yang menjawab tepat dikasih 4 koin 
