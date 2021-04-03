@@ -2,7 +2,7 @@ PERTANYAAN WAJIB DEVELOPER :
 
 1. Apa username bot pada platform telegram?
 2. Apa kepanjangan dari lavida?
-3. Terletak dimanakah user dapat mengetahui info detail data zonasi RT?
+3. Dimanakah user dapat mengetahui info detail data zonasi RT?
 
 
 JAWABAN PENGUNJUNG YANG BENAR :
